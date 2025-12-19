@@ -47,10 +47,11 @@ Ouvrir [http://localhost:3000](http://localhost:3000) dans votre navigateur.
 Projet réalisé dans le cadre du Master IF.  
 Membres de l'équipe :
 
+
+- Front , back , BD : Niama CHIBANI niama.chibani@etu.univ-lyon1.fr 
+- Front , back : Mael LAURENT mael.laurent@etu.univ-lyon1.fr
 - Design : Khalissa RHOULAM khalissa.rhoulam@etu.univ-lyon1.fr
 - VM : Nael LAHCENE nael.lahcene@etu.univ-lyon1.fr 
-- Front , back , BD : Niama CHIBANI niama.chibani@etu.univ-lyon1.fr 
-- Front , back : Mael LAURENT mael.laurent@etu.univ-lyon1.fr 
 - Reporter : Yannis BORDJI yannis.bordji@etu.univ-lyon1.fr 
 - deploiement/ CI-CD: Anthony BOVE anthony.bove@etu.univ-lyon1.fr 
 ## ✅ Tests utilisateurs
