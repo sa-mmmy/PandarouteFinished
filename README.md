@@ -47,13 +47,12 @@ Ouvrir [http://localhost:3000](http://localhost:3000) dans votre navigateur.
 Projet réalisé dans le cadre du Master IF.  
 Membres de l'équipe :
 
-- BD : Khalissa RHOULAM khalissa.rhoulam@etu.univ-lyon1.fr 06 52 49 65 77
-- VM : Nael LAHCENE nael.lahcene@etu.univ-lyon1.fr 07 82 13 65 78
-- Front : Niama CHIBANI niama.chibani@etu.univ-lyon1.fr 07 67 97 23 56
-- Front : Mael LAURENT mael.laurent@etu.univ-lyon1.fr 07 67 86 28 18
-- Reporter : Yannis BORDJI yannis.bordji@etu.univ-lyon1.fr 06 52 64 20 18
-- Back : Anthony BOVE anthony.bove@etu.univ-lyon1.fr 07 82 21 59 45
-
+- Design : Khalissa RHOULAM khalissa.rhoulam@etu.univ-lyon1.fr
+- VM : Nael LAHCENE nael.lahcene@etu.univ-lyon1.fr 
+- Front , back , BD : Niama CHIBANI niama.chibani@etu.univ-lyon1.fr 
+- Front , back : Mael LAURENT mael.laurent@etu.univ-lyon1.fr 
+- Reporter : Yannis BORDJI yannis.bordji@etu.univ-lyon1.fr 
+- deploiement/ CI-CD: Anthony BOVE anthony.bove@etu.univ-lyon1.fr 
 ## ✅ Tests utilisateurs
 
 Des tests ont été réalisés sur un panel de 10 personnes réparties par tranche d’âge.  
